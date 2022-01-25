@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.21)
+project(Task_2__Allocating_an_array_of_the_required_size__a_pointer_to_an_array__)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Task_2__Allocating_an_array_of_the_required_size__a_pointer_to_an_array__ main.cpp)
